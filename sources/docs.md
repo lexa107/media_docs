@@ -2,6 +2,7 @@
 
 ## General info
 * [This documentation usage](documentation.html)
+* [Make copy of system sdcard](copy_sdcard.html)
 
 ## Linux specific
 * [Services and systemd](services.html)
