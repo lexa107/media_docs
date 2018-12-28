@@ -9,7 +9,7 @@ from config import *
 
 print "Converter of markdown to html for knowledgebase"
 
-converter = Markdown() 
+converter = Markdown(extras=["fenced-code-blocks"]) 
 files = glob.glob('sources/*.md')
 for f in files:
 	print "Converting file", f
