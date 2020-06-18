@@ -10,4 +10,7 @@
 ## Custom services info
 * [Webinterface service](webinterface.html)
 
+## Other
+* [Vim plugins info](vimplugins.html)
+
 [Go home](../index.html)
